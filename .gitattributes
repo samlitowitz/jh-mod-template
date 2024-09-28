@@ -1,0 +1,6 @@
+* -text
+
+.* export-ignore
+
+assets export-ignore
+scripts export-ignore
