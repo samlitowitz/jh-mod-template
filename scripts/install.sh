@@ -11,6 +11,7 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
   cp gfx.lua "${MOD_DIR}"
   cp main.lua "${MOD_DIR}"
   cp meta.lua "${MOD_DIR}"
+  cp sound.lua "${MOD_DIR}"
   cp LICENSE "${MOD_DIR}"
   cp README.markdown "${MOD_DIR}"
 fi
